@@ -15,7 +15,8 @@
     "vue-router": "^3.0.3",
     "vuetify": "^1.5.5",
     "vuex": "^3.0.1",
-    "vue-style-loader": "^4.1.0"
+    "vue-style-loader": "^4.1.0",
+    "regenerator-runtime": "^0.13.3"
   },
   "devDependencies": {
     "@mdi/font": "^3.6.95",
